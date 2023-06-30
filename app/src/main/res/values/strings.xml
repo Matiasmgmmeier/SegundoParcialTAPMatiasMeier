@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SegundoParcialTAPMatiasMeier</string>
+    <string name="TexviewJokeCategory">TextView</string>
+    <string name="Search">Button</string>
+</resources>
